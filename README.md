@@ -4,7 +4,7 @@
 
 ![alternatif metin](https://github.com/acetinkaya/RC-Kumandan-Steam-e-Ba-la-FS-i6S-Dijital-D-n-m-ve-Sim-lat-r-Rehberi/blob/main/giris-resmi.png)
 
-🎓 Not: Bu video içerik eğitim ve bilgilendirme amaçlıdır. Herhangi bir sponsorluk veya ücretli tanıtım içermez. Kullanılan ekipmanlar kişisel deneyim aktarımıdır; #işbirliğideğildir.
+🎓 Not: Bu video eğitim ve bilgilendirme amaçlıdır. Herhangi bir sponsorluk veya ücretli iş birliği içermemektedir. Videoda kullanılan ekipmanlar kişisel olarak temin edilmiş olup yalnızca bilgi paylaşımı amacıyla gösterilmiştir. #reklamdeğildir #sponsorlukdeğildir #işbirliğideğildir.
 
 Dijital dönüşüm sadece endüstriyel süreçlerde değil, hobilerimizde ve beceri gelişimimizde de başlar. Bugün, gerçek bir RC pilotu olmanın temeli olan simülasyon dünyasına, FlySky FS-i6S kumandanızı nasıl entegre edebileceğinizi adım adım inceliyoruz.
 
