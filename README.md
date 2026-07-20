@@ -27,6 +27,12 @@ Bu sayfada https://store.steampowered.com/about/ öncelikle steam yazılımını
 
 ---
 
+Steam platformundaki simülatrün ismi "Liftoff®: FPV Drone Racing"
+
+![alternatif metin](https://github.com/acetinkaya/RC-Kumandani-Steame-Bagla-FS-i6S-Dijital-Donumsum-ve-Simulator-Rehberi/blob/main/liftoff.png)
+
+---
+
 ![alternatif metin](https://github.com/acetinkaya/RC-Kumandani-Steame-Bagla-FS-i6S-Dijital-Donumsum-ve-Simulator-Rehberi/blob/main/_1_resim.png)
 
 ---
