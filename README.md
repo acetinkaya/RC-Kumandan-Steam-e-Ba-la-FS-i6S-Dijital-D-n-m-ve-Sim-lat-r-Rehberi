@@ -77,11 +77,13 @@ Bilgisayarım "Başlat Menusünden -> USB oyun denetleyicilerini kur" kısmına 
 
 ---
 
-Oyun Kumandaları menusu ekrandaki gibi gelecektir. 
+Oyun Kumandaları menusu ekrandaki gibi gelecektir. Kumandanızı çalıştırarak bekleyiniz.
 
 ![alternatif metin](https://github.com/acetinkaya/RC-Kumandani-Steame-Bagla-FS-i6S-Dijital-Donumsum-ve-Simulator-Rehberi/blob/main/_8_resim.png)
 
 ---
+
+Bilgisayarımdan -> Başlat Menusünden -> Aygıt Yöneticisine -> İnsan Arabirim Aygıtları Kısmından "HID uyumlu oyun denetleyicisi" olarak kumandanız görünmesi gerekmektedir. Herhangi bir sürücü kurulumu gerekmemektedir. Bu işlem için kumandanızın açık ve çalışır - ekranında bilgilerin olması gerekmektedir.
 
 ![alternatif metin](https://github.com/acetinkaya/RC-Kumandani-Steame-Bagla-FS-i6S-Dijital-Donumsum-ve-Simulator-Rehberi/blob/main/_9_resim.png)
 
