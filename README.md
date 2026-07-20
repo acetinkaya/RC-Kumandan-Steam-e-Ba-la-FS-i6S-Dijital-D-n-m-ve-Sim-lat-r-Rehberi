@@ -47,17 +47,25 @@ Bağlantı problemini aşmak için steam'ın ayarlar bölümüne gitmeliyiz.
 
 ---
 
+Steam -> Ayarlar -> Kontrolcü kısmına gidiyoruz.
+
 ![alternatif metin](https://github.com/acetinkaya/RC-Kumandani-Steame-Bagla-FS-i6S-Dijital-Donumsum-ve-Simulator-Rehberi/blob/main/_3_resim.png)
 
 ---
+
+Steam -> Ayarlar -> Kontrolcü -> Gelişmiş Ayarlar Göster kısmına gidiyoruz.
 
 ![alternatif metin](https://github.com/acetinkaya/RC-Kumandani-Steame-Bagla-FS-i6S-Dijital-Donumsum-ve-Simulator-Rehberi/blob/main/_4_resim.png)
 
 ---
 
+Gelen menüde "Genel Kontrolcüler İçin Team Girdisini Etkinliştir" kısmını pasif hale etmeliyiz.
+
 ![alternatif metin](https://github.com/acetinkaya/RC-Kumandani-Steame-Bagla-FS-i6S-Dijital-Donumsum-ve-Simulator-Rehberi/blob/main/_5_resim.png)
 
 ---
+
+Sonrasında Steam Girdi Bölümünden USB üzerinden bağlayacağınız RC kumanda işlemlerine devam ediyoruz. Bende FlySky FS-i6s kumanda bulunmaktadır. USB data kablosu ile bilgisayara bağlantı yapıyoruz.
 
 ![alternatif metin](https://github.com/acetinkaya/RC-Kumandani-Steame-Bagla-FS-i6S-Dijital-Donumsum-ve-Simulator-Rehberi/blob/main/_6_resim.png)
 
