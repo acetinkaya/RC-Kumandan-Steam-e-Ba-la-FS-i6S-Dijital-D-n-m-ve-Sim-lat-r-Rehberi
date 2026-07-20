@@ -77,6 +77,8 @@ Bilgisayarım "Başlat Menusünden -> USB oyun denetleyicilerini kur" kısmına 
 
 ---
 
+Oyun Kumandaları menusu ekrandaki gibi gelecektir. 
+
 ![alternatif metin](https://github.com/acetinkaya/RC-Kumandani-Steame-Bagla-FS-i6S-Dijital-Donumsum-ve-Simulator-Rehberi/blob/main/_8_resim.png)
 
 ---
