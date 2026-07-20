@@ -18,3 +18,7 @@ Bu eğitim serisinde:
 Danışmanlı Öğrenme ile veriye dayalı, optimize edilmiş ve profesyonel uçuş deneyimine adım atın.
 
 #FlySky #FSi6S #Simülatör #RCUçuş #DijitalDönüşüm #DanışmanlıÖğrenme #FPV #Steam #Eğitim
+
+## İşlem Aşamaları
+
+![alternatif metin](https://github.com/acetinkaya/RC-Kumandan-Steam-e-Ba-la-FS-i6S-Dijital-D-n-m-ve-Sim-lat-r-Rehberi/blob/main/kapan%C4%B1s-resmi.png)
