@@ -41,6 +41,7 @@ Simülatörün kurulumu bittiğinde RC kumandanızı steam platformuna tanıtman
 
 ---
 
+Bağlantı problemini aşmak için steam'ın ayarlar bölümüne gitmeliyiz.
 
 ![alternatif metin](https://github.com/acetinkaya/RC-Kumandani-Steame-Bagla-FS-i6S-Dijital-Donumsum-ve-Simulator-Rehberi/blob/main/_2_resim.png)
 
